@@ -9,6 +9,7 @@ public class IteratingArray {
       //Creating an array
       
       int myArray[] = new int[7];
+      
       
       myArray[0] = 200;
       
